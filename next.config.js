@@ -15,7 +15,8 @@ module.exports = withBundleAnalyzer({
       'source.unsplash.com',
       'p1.qhimg.com',
       'webmention.io',
-      'localhost:1212/'
+      'localhost:1212/',
+      'www.xinwanda.top'
     ]
   },
   // 默认将feed重定向至 /public/rss/feed.xml
